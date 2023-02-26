@@ -1,0 +1,32 @@
+[{
+  "_id": "63fb7696e4b44026810a278b",
+  "created_at": 1677424278,
+  "merk": "Daihatsu",
+  "mobil": [
+    {
+      "_id": "63fb77ace4b44026810a278c",
+      "warna": "merah",
+      "kapasitas": null,
+      "harga": "100000000"
+    },
+    {
+      "_id": "63fb77c6e4b44026810a278d",
+      "warna": "biru",
+      "kapasitas": "400cc",
+      "harga": "100000000"
+    }
+  ],
+  "tahun_release": "2022"
+},{
+  "_id": "63fb7843e4b44026810a278e",
+  "created_at": 1677424707,
+  "merk": "DXD",
+  "mobil": [],
+  "tahun_release": "2022"
+},{
+  "_id": "63fb786be4b44026810a278f",
+  "created_at": 1677424747,
+  "merk": "Kijang",
+  "mobil": [],
+  "tahun_release": "2022"
+}]
