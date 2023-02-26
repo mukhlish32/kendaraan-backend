@@ -26,7 +26,7 @@
 - Selanjutnya masukkan request api http://127.0.0.1:8000/api/{sesuai-action-yang-tertera} dan methodnya.
     - Jalankan command ini terlebih dahulu agar bisa mendapatkan token dan akses login : php artisan jwt:secret 
     - Copy hasil token yang sudah jadi dan masukkan di Authorization, Bearer Token
-    - Buka akses api/login terlebih dahulu untuk mendapatkan access_token, setelah didapatkan lakukan copy paste ke Authorization, Bearer Token dengan menggunakan access_token hasil dari api/login
+    - Buka akses api/login terlebih dahulu untuk mendapatkan access_token, setelah didapatkan lakukan copy paste ke Authorization, Bearer Token dengan menggunakan access_token hasil dari api/login (name: mukhlish, password: admin)
     - Selanjutnya anda bisa menjalankan fitur sesuai dengan waktu aktif access_token tersebut.
     
 
